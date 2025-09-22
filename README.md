@@ -145,3 +145,4 @@ The application uses Prisma with SQLite for data persistence. The schema include
 
 This project is licensed under the MIT License.
 
+
